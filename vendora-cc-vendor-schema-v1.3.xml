@@ -8,6 +8,7 @@
     <vendorId>adobe</vendorId>
     <vendorProductId>acrobat</vendorProductId>
     <vendorProductName>Acrobat Core</vendorProductName>
+    <productLine>Acrobat Core</productLine>
     <lastUpdated>2023-01-15T12:30:45Z</lastUpdated>
     <item>
       <title>Creative Cloud Desktop App, Windows 64-bit</title>
@@ -17,12 +18,21 @@
       <platform>Windows x32</platform>
       <notes>install over DC base (32-bit)</notes>
       <version>1.0-1903x</version>
-      <downloadType>Instaler</downloadType>
+      <downloadType>Installer</downloadType>
       <licenseRestricted>false</licenseRestricted>
       <cveList>
-        <cveId>CVE-123</cveId>
-        <cveId>CVE-463</cveId>
-        <cveId>CVE-999</cveId>
+        <cveItem>
+          <cveId>CVE-2024-0001</cveId>
+          <inKEVCatalog>yes</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2024-0002</cveId>
+          <inKEVCatalog>no</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2024-0003</cveId>
+          <inKEVCatalog>yes</inKEVCatalog>
+        </cveItem>
       </cveList>
       <languageVersions>
         <langItem>
@@ -31,6 +41,7 @@
           <valid>true</valid>
           <packageName>ACCCx6_3_0_207</packageName>
           <packageExtension>zip</packageExtension>
+          <licensePath>https://www.adobe.com/</licensePath>
           <checksumMD5>123123</checksumMD5>
           <link>https://ccmdls.adobe.com/AdobeProducts/StandaloneBuilds/ACCC/ESD/6.3.0/207/win64/ACCCx6_3_0_207.zip</link>
         </langItem>
@@ -40,6 +51,7 @@
           <valid>true</valid>
           <packageName>ACCCx5_5_0_617-es.zip</packageName>
           <packageExtension>zip</packageExtension>
+          <licensePath>https://www.adobe.com/</licensePath>
           <checksumMD5>1123</checksumMD5>
           <link>https://ccmdl.adobe.com/AdobeProducts/KCCC/CCD/5_5_0/win64/ACCCx5_5_0_617.zip</link>
         </langItem>
@@ -62,6 +74,7 @@
           <valid>true</valid>
           <packageName>ACCCx5_2_1_441.zip</packageName>
           <packageExtension>zip</packageExtension>
+          <licensePath>https://www.adobe.com/</licensePath>
           <checksumMD5></checksumMD5>
           <link>https://ccmdl.adobe.com/AdobeProducts/KCCC/CCD/5_2_1/win64/ACCCx5_2_1_441.zip</link>
         </langItem>

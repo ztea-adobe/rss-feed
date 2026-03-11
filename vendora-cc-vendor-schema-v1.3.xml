@@ -6,7 +6,8 @@
     <description>Download updates for Adobe Acrobat application</description>
     <link>https://www.citrix.com/downloads/workspace-app.html</link>
     <vendorId>adobe</vendorId>
-    <vendorProduct>acrobat</vendorProduct>
+    <vendorProductId>acrobat</vendorProductId>
+    <vendorProductName>Acrobat Core</vendorProductName>
     <lastUpdated>2023-01-15T12:30:45Z</lastUpdated>
     <item>
       <title>Creative Cloud Desktop App, Windows 64-bit</title>

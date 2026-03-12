@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <!-- Vendor RSS Schema version 1.4. Each item is a release; each langItem represents a download file (one per language/format). -->
+  <channel>
+    <title>Adobe Acrobat and Reader DC Update Feed</title>
+    <description>Download updates for Adobe Acrobat DC and Acrobat Reader DC applications</description>
+    <link>https://www.adobe.com/downloads/acrobat-reader.html</link>
+    <vendorId>adobe</vendorId>
+    <vendorProductId>acrobat</vendorProductId>
+    <vendorProductName>Acrobat DC</vendorProductName>
+    <productLine>Document Cloud</productLine>
+    <lastUpdated>2026-03-12T09:15:30Z</lastUpdated>
+    <item>
+      <title>Acrobat DC Update, Windows 64-bit</title>
+      <description>Security update for Adobe Acrobat DC on Windows 64-bit. Install over existing Acrobat DC base.</description>
+      <feedEntryDate>2026-03-10T00:00:00Z</feedEntryDate>
+      <publicReleaseDate>20260308</publicReleaseDate>
+      <platform>Windows x64</platform>
+      <notes>Install over DC base (64-bit). Contains security fixes.</notes>
+      <version>25.0.121223</version>
+      <downloadType>Patch</downloadType>
+      <licenseRestricted>false</licenseRestricted>
+      <cveList>
+        <cveItem>
+          <cveId>CVE-2026-0012</cveId>
+          <inKEVCatalog>yes</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0015</cveId>
+          <inKEVCatalog>no</inKEVCatalog>
+        </cveItem>
+      </cveList>
+      <languageVersions>
+        <langItem>
+          <id>2500121223</id>
+          <language>en_us</language>
+          <valid>true</valid>
+          <packageName>AcrobatDCUpd2500121223.msp</packageName>
+          <packageExtension>msp</packageExtension>
+          <licensePath>https://www.adobe.com/</licensePath>
+          <checksumMD5>7c1dc518ffdd702c9d996cfc2a5cf38e046f4a8b08874f9ae8f0ca0f0e51be4b</checksumMD5>
+          <link>https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121223/AcrobatDCUpd2500121223.msp</link>
+        </langItem>
+        <langItem>
+          <id>2500121151</id>
+          <language>es_es</language>
+          <valid>true</valid>
+          <packageName>AcrobatDCUpd2500121151.msp</packageName>
+          <packageExtension>msp</packageExtension>
+          <licensePath>https://www.adobe.com/</licensePath>
+          <checksumMD5>0a9b6f1d11c74586b98caec41525aa99d654f38009630aa9554e13b6b190ef37</checksumMD5>
+          <link>https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121151/AcrobatDCUpd2500121151.msp</link>
+        </langItem>
+      </languageVersions>
+    </item>
+    <item>
+      <title>Acrobat DC Update, MacOS</title>
+      <description>Security update for Adobe Acrobat DC on MacOS. For macOS 10.15 or later.</description>
+      <feedEntryDate>2026-03-09T12:00:00Z</feedEntryDate>
+      <publicReleaseDate>20260305</publicReleaseDate>
+      <platform>MacOS</platform>
+      <notes>Install over DC base. Contains bugfixes as well as UI overhaul.</notes>
+      <version>25.0.121145</version>
+      <downloadType>Update</downloadType>
+      <licenseRestricted>false</licenseRestricted>
+      <languageVersions>
+        <langItem>
+          <id>2500121145</id>
+          <language>en_us</language>
+          <valid>true</valid>
+          <packageName>AcrobatDCUpd2500121145.dmg</packageName>
+          <packageExtension>dmg</packageExtension>
+          <licensePath>https://www.adobe.com/</licensePath>
+          <checksumMD5>5851cd846b9f3683211ba80588d8e7155a0805be32f32035993216e080a01b89</checksumMD5>
+          <link>https://ardownload3.adobe.com/pub/adobe/acrobat/mac/AcrobatDC/2500121145/AcrobatDCUpd2500121145.dmg</link>
+        </langItem>
+      </languageVersions>
+    </item>
+    <item>
+      <title>Acrobat Reader DC Update, Windows MUI</title>
+      <description>Multi-language installer for Adobe Acrobat Reader DC on Windows.</description>
+      <feedEntryDate>2026-03-08T00:00:00Z</feedEntryDate>
+      <publicReleaseDate>20260301</publicReleaseDate>
+      <platform>Windows x64</platform>
+      <notes>MUI package. Install over Reader DC base.</notes>
+      <version>25.0.121078</version>
+      <downloadType>Installer</downloadType>
+      <licenseRestricted>false</licenseRestricted>
+      <languageVersions>
+        <langItem>
+          <id>2500121078</id>
+          <language>en_us</language>
+          <valid>true</valid>
+          <packageName>AcroRdrDCUpd2500121078_MUI.msp</packageName>
+          <packageExtension>msp</packageExtension>
+          <licensePath>https://www.adobe.com/</licensePath>
+          <checksumMD5>1f6ac40dbd2b2c35bc4267eb0db98b66</checksumMD5>
+          <link>https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500121078/AcroRdrDCUpd2500121078_MUI.msp</link>
+        </langItem>
+      </languageVersions>
+    </item>
+  </channel>
+</rss>

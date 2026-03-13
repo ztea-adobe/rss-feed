@@ -30,6 +30,22 @@
           <cveId>CVE-2026-0015</cveId>
           <inKEVCatalog>no</inKEVCatalog>
         </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0018</cveId>
+          <inKEVCatalog>yes</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0021</cveId>
+          <inKEVCatalog>no</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0024</cveId>
+          <inKEVCatalog>yes</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0027</cveId>
+          <inKEVCatalog>yes</inKEVCatalog>
+        </cveItem>
       </cveList>
       <languageVersions>
         <langItem>
@@ -64,6 +80,25 @@
       <version>25.0.121145</version>
       <downloadType>Update</downloadType>
       <licenseRestricted>false</licenseRestricted>
+      <cveBaseSeverity>Medium</cveBaseSeverity>
+      <cveList>
+        <cveItem>
+          <cveId>CVE-2026-0030</cveId>
+          <inKEVCatalog>no</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0031</cveId>
+          <inKEVCatalog>no</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0032</cveId>
+          <inKEVCatalog>no</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0033</cveId>
+          <inKEVCatalog>no</inKEVCatalog>
+        </cveItem>
+      </cveList>
       <languageVersions>
         <langItem>
           <id>2500121145</id>
@@ -87,6 +122,37 @@
       <version>25.0.121078</version>
       <downloadType>Installer</downloadType>
       <licenseRestricted>false</licenseRestricted>
+      <cveBaseSeverity>Critical</cveBaseSeverity>
+      <cveList>
+        <cveItem>
+          <cveId>CVE-2026-0040</cveId>
+          <inKEVCatalog>yes</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0041</cveId>
+          <inKEVCatalog>no</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0042</cveId>
+          <inKEVCatalog>yes</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0043</cveId>
+          <inKEVCatalog>yes</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0044</cveId>
+          <inKEVCatalog>no</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0045</cveId>
+          <inKEVCatalog>yes</inKEVCatalog>
+        </cveItem>
+        <cveItem>
+          <cveId>CVE-2026-0046</cveId>
+          <inKEVCatalog>no</inKEVCatalog>
+        </cveItem>
+      </cveList>
       <languageVersions>
         <langItem>
           <id>2500121078</id>

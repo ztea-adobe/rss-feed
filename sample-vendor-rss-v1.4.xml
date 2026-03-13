@@ -55,7 +55,7 @@
           <packageName>AcrobatDCUpd2500121223.msp</packageName>
           <packageExtension>msp</packageExtension>
           <licensePath>https://www.adobe.com/abc</licensePath>
-          <checksumMD5>7c1dc518ffdd702c9d996cfc2a5cf38e046f4a8b08874f9ae8f0ca0f0e51be4b</checksumMD5>
+          <checksumSha256>7c1dc518ffdd702c9d996cfc2a5cf38e046f4a8b08874f9ae8f0ca0f0e51be4b</checksumSha256>
           <link>https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121223/AcrobatDCUpd2500121223.msp</link>
         </langItem>
         <langItem>
@@ -65,7 +65,7 @@
           <packageName>AcrobatDCUpd2500121151.msp</packageName>
           <packageExtension>msp</packageExtension>
           <licensePath>https://www.adobe.com/def</licensePath>
-          <checksumMD5>0a9b6f1d11c74586b98caec41525aa99d654f38009630aa9554e13b6b190ef37</checksumMD5>
+          <checksumSha256>0a9b6f1d11c74586b98caec41525aa99d654f38009630aa9554e13b6b190ef37</checksumSha256>
           <link>https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500121151/AcrobatDCUpd2500121151.msp</link>
         </langItem>
       </languageVersions>
@@ -107,7 +107,7 @@
           <packageName>AcrobatDCUpd2500121145.dmg</packageName>
           <packageExtension>dmg</packageExtension>
           <licensePath>https://www.adobe.com/feg</licensePath>
-          <checksumMD5>5851cd846b9f3683211ba80588d8e7155a0805be32f32035993216e080a01b89</checksumMD5>
+          <checksumSha256>5851cd846b9f3683211ba80588d8e7155a0805be32f32035993216e080a01b89</checksumSha256>
           <link>https://ardownload3.adobe.com/pub/adobe/acrobat/mac/AcrobatDC/2500121145/AcrobatDCUpd2500121145.dmg</link>
         </langItem>
       </languageVersions>
@@ -161,7 +161,7 @@
           <packageName>AcroRdrDCUpd2500121078_[MUI].msp</packageName>
           <packageExtension>msp</packageExtension>
           <licensePath>https://www.adobe.com/ccc</licensePath>
-          <checksumMD5>1f6ac40dbd2b2c35bc4267eb0db98b66</checksumMD5>
+          <checksumSha256>1f6ac40dbd2b2c35bc4267eb0db98b66</checksumSha256>
           <link>https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2500121078/AcroRdrDCUpd2500121078_MUI.msp</link>
         </langItem>
       </languageVersions>

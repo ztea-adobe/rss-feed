@@ -51,7 +51,7 @@
         <langItem>
           <id>2500121223</id>
           <language>en_us</language>
-          <valid>true</valid>
+          <valid>false</valid>
           <packageName>AcrobatDCUpd2500121223.msp</packageName>
           <packageExtension>msp</packageExtension>
           <licensePath>https://www.adobe.com/abc</licensePath>
@@ -61,7 +61,7 @@
         <langItem>
           <id>2500121151</id>
           <language>es_es</language>
-          <valid>true</valid>
+          <valid>false</valid>
           <packageName>AcrobatDCUpd2500121151.msp</packageName>
           <packageExtension>msp</packageExtension>
           <licensePath>https://www.adobe.com/def</licensePath>

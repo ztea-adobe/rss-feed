@@ -29,7 +29,7 @@
           <packageName>dxwebsetup.exe</packageName>
           <packageExtension>exe</packageExtension>
           <licensePath>https://vendor.example.com/eula</licensePath>
-          <checksumSha256>0000000000000000000000000000000000000000000000000000000000000000</checksumSha256>
+          <checksumSha256>2cf71d098c608c56e07f4655855a886c3102553f648df88458df616b26fd612f</checksumSha256>
           <link>https://download.microsoft.com/download/1/7/1/1718ccc4-6315-4d8e-9543-8e28a4e18c4c/dxwebsetup.exe</link>
         </langItem>
       </languageVersions>
@@ -59,7 +59,7 @@
           <packageName>Windows-KB890830-x64-V5.139.exe</packageName>
           <packageExtension>exe</packageExtension>
           <licensePath>https://vendor.example.com/eula</licensePath>
-          <checksumSha256>0000000000000000000000000000000000000000000000000000000000000000</checksumSha256>
+          <checksumSha256>9a069e5a6f721968d6d07fba56b7384a21840ffdcd6e11d825fdf9b72235d219</checksumSha256>
           <link>https://download.microsoft.com/download/2/c/5/2c563b99-54d9-4d85-a82b-45d3cd2f53ce/Windows-KB890830-x64-V2/c/5/2c563b99-54d9-4d85-a82b-45d3cd2f53ce/Windows-KB890830-x64-V5.139.exe</link>
         </langItem>
       </languageVersions>
@@ -79,11 +79,11 @@
         <langItem>
           <id>win11-assistant-en</id>
           <language>en-US</language>
-          <valid>true</valid>
+          <valid>false</valid>
           <packageName>Windows11InstallationAssistant.exe</packageName>
           <packageExtension>exe</packageExtension>
           <licensePath>https://vendor.example.com/eula</licensePath>
-          <checksumSha256>0000000000000000000000000000000000000000000000000000000000000000</checksumSha256>
+          <checksumSha256>837f97852c2e8f4242cde4dbf863ed0db117082d2eebfb7c3f1f37f9b6e89758</checksumSha256>
           <link>https://download.microsoft.com/download/db8267b0-3e86-4254-82c7-a127878a9378/Windows11InstallationAssistant.exe</link>
         </langItem>
       </languageVersions>

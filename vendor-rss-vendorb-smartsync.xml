@@ -8,7 +8,7 @@
     <vendorId>vendorb</vendorId>
     <vendorProductId>smartsync</vendorProductId>
     <vendorProductName>SmartSync Runtime and Tools</vendorProductName>
-    <productLine>SmartSync</productLine>
+    <productLine>Cloud</productLine>
     <lastUpdated>2026-03-17T12:00:00Z</lastUpdated>
     <item>
       <title>DirectX Web Setup</title>
@@ -18,7 +18,7 @@
       <platform>Windows</platform>
       <notes>Web setup for DirectX runtime components.</notes>
       <version>9.29.1974</version>
-      <downloadType>installer</downloadType>
+      <downloadType>Installer</downloadType>
       <licenseRestricted>false</licenseRestricted>
       <cveBaseSeverity>None</cveBaseSeverity>
       <languageVersions>
@@ -42,7 +42,7 @@
       <platform>Windows x64</platform>
       <notes>Monthly security update for MSRT.</notes>
       <version>5.139</version>
-      <downloadType>update</downloadType>
+      <downloadType>Update</downloadType>
       <licenseRestricted>false</licenseRestricted>
       <cveBaseSeverity>High</cveBaseSeverity>
       <cveList>
